@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA20FB34-9899-41F4-B07C-07C8C59082DD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NoViolence</RootNamespace>
+    <AssemblyName>NoViolence</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.cvc.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\i\affiche14.jpg" />
+    <Content Include="Content\i\bourdel.jpg" />
+    <Content Include="Content\i\couverture.jpg" />
+    <Content Include="Content\i\Crepuscule.jpg" />
+    <Content Include="Content\i\dauphine.jpg" />
+    <Content Include="Content\i\echirolles le 2oct.%28bas page%29.jpg" />
+    <Content Include="Content\i\echirolles le 2oct.%28ht page%29 copie.jpg" />
+    <Content Include="Content\i\english.png" />
+    <Content Include="Content\i\f.png" />
+    <Content Include="Content\i\FBBanner.jpg" />
+    <Content Include="Content\i\gandhi.jpg" />
+    <Content Include="Content\i\gandhienglish.jpg" />
+    <Content Include="Content\i\Kevin&amp;Sofiane.jpg" />
+    <Content Include="Content\i\le 2 0ct école Pont de claix copie.jpg" />
+    <Content Include="Content\i\le 2 oct.14 grenoble et sa région %28ht de page%29 copie.jpg" />
+    <Content Include="Content\i\le 2 oct.14 grenoble et sa région%28bas de page%29 copie.jpg" />
+    <Content Include="Content\i\le 2oct.Poisat Le Pont de Claix copie.jpg" />
+    <Content Include="Content\i\LettreMinistre.jpg" />
+    <Content Include="Content\i\libe.jpg" />
+    <Content Include="Content\i\like.png" />
+    <Content Include="Content\i\logoBN.png" />
+    <Content Include="Content\i\logoNB.png" />
+    <Content Include="Content\i\lycee.jpg" />
+    <Content Include="Content\i\lycee2.jpg" />
+    <Content Include="Content\i\lycee3.jpg" />
+    <Content Include="Content\i\mail.jpg" />
+    <Content Include="Content\i\mariecurie.jpg" />
+    <Content Include="Content\i\mb.jpg" />
+    <Content Include="Content\i\MB2.png" />
+    <Content Include="Content\i\relais.jpg" />
+    <Content Include="Content\i\relais2.jpg" />
+    <Content Include="Content\i\respaix.jpg" />
+    <Content Include="Content\i\revolver.jpg" />
+    <Content Include="Content\i\ruban.jpg" />
+    <Content Include="Content\i\ruban2.jpg" />
+    <Content Include="Content\i\ruban3.jpg" />
+    <Content Include="Content\i\sionseme.jpg" />
+    <Content Include="Content\i\tag.jpg" />
+    <Content Include="Content\i\tshirt.jpg" />
+    <Content Include="Content\i\villeneuve_debout.jpg" />
+    <Content Include="Content\i\vincent.jpg" />
+    <Content Include="Content\i\vincent2.jpg" />
+    <Content Include="Content\i\vincent3.jpg" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\themes\base\images\animated-overlay.gif" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\jquery-ui.css" />
+    <Content Include="Content\themes\base\jquery.ui.accordion.css" />
+    <Content Include="Content\themes\base\jquery.ui.all.css" />
+    <Content Include="Content\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="Content\themes\base\jquery.ui.base.css" />
+    <Content Include="Content\themes\base\jquery.ui.button.css" />
+    <Content Include="Content\themes\base\jquery.ui.core.css" />
+    <Content Include="Content\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="Content\themes\base\jquery.ui.dialog.css" />
+    <Content Include="Content\themes\base\jquery.ui.menu.css" />
+    <Content Include="Content\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="Content\themes\base\jquery.ui.resizable.css" />
+    <Content Include="Content\themes\base\jquery.ui.selectable.css" />
+    <Content Include="Content\themes\base\jquery.ui.slider.css" />
+    <Content Include="Content\themes\base\jquery.ui.spinner.css" />
+    <Content Include="Content\themes\base\jquery.ui.tabs.css" />
+    <Content Include="Content\themes\base\jquery.ui.theme.css" />
+    <Content Include="Content\themes\base\jquery.ui.tooltip.css" />
+    <Content Include="Content\themes\base\minified\images\animated-overlay.gif" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.menu.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.spinner.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tooltip.min.css" />
+    <Content Include="Content\toast\css\jquery.toastmessage.css" />
+    <Content Include="Content\toast\images\close.gif" />
+    <Content Include="Content\toast\images\error.png" />
+    <Content Include="Content\toast\images\notice.png" />
+    <Content Include="Content\toast\images\success.png" />
+    <Content Include="Content\toast\images\warning.png" />
+    <Content Include="essai.html" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="marcheblanche.html" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.10.4.js" />
+    <Content Include="Scripts\jquery-ui-1.10.4.min.js" />
+    <Content Include="Scripts\jquery.toastmessage.js" />
+    <Content Include="Scripts\message.cvc.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\scrapper.cvc.js" />
+    <None Include="Scripts\_references.js" />
+    <Content Include="sliderpro\dist\css\images\blank.gif" />
+    <Content Include="sliderpro\dist\css\images\closedhand.cur" />
+    <Content Include="sliderpro\dist\css\images\openhand.cur" />
+    <Content Include="sliderpro\dist\css\slider-pro.css" />
+    <Content Include="sliderpro\dist\css\slider-pro.min.css" />
+    <Content Include="sliderpro\dist\js\jquery.sliderPro.js" />
+    <Content Include="sliderpro\dist\js\jquery.sliderPro.min.js" />
+    <Content Include="sliderpro\examples\css\examples.css" />
+    <Content Include="sliderpro\examples\example1.html" />
+    <Content Include="sliderpro\examples\example2.html" />
+    <Content Include="sliderpro\examples\example3.html" />
+    <Content Include="sliderpro\examples\example4.html" />
+    <Content Include="sliderpro\examples\example5.html" />
+    <Content Include="sliderpro\Gruntfile.js" />
+    <Content Include="sliderpro\libs\fancybox\blank.gif" />
+    <Content Include="sliderpro\libs\fancybox\fancybox_loading%402x.gif" />
+    <Content Include="sliderpro\libs\fancybox\fancybox_loading.gif" />
+    <Content Include="sliderpro\libs\fancybox\fancybox_overlay.png" />
+    <Content Include="sliderpro\libs\fancybox\fancybox_sprite%402x.png" />
+    <Content Include="sliderpro\libs\fancybox\fancybox_sprite.png" />
+    <Content Include="sliderpro\libs\fancybox\helpers\fancybox_buttons.png" />
+    <Content Include="sliderpro\libs\fancybox\helpers\jquery.fancybox-buttons.css" />
+    <Content Include="sliderpro\libs\fancybox\helpers\jquery.fancybox-buttons.js" />
+    <Content Include="sliderpro\libs\fancybox\helpers\jquery.fancybox-media.js" />
+    <Content Include="sliderpro\libs\fancybox\helpers\jquery.fancybox-thumbs.css" />
+    <Content Include="sliderpro\libs\fancybox\helpers\jquery.fancybox-thumbs.js" />
+    <Content Include="sliderpro\libs\fancybox\jquery.fancybox.css" />
+    <Content Include="sliderpro\libs\fancybox\jquery.fancybox.js" />
+    <Content Include="sliderpro\libs\fancybox\jquery.fancybox.pack.js" />
+    <Content Include="sliderpro\libs\jquery-1.11.0.min.js" />
+    <Content Include="sliderpro\src\css\images\blank.gif" />
+    <Content Include="sliderpro\src\css\images\closedhand.cur" />
+    <Content Include="sliderpro\src\css\images\openhand.cur" />
+    <Content Include="sliderpro\src\css\slider-pro.arrows.css" />
+    <Content Include="sliderpro\src\css\slider-pro.buttons.css" />
+    <Content Include="sliderpro\src\css\slider-pro.caption.css" />
+    <Content Include="sliderpro\src\css\slider-pro.core.css" />
+    <Content Include="sliderpro\src\css\slider-pro.full-screen.css" />
+    <Content Include="sliderpro\src\css\slider-pro.layers.css" />
+    <Content Include="sliderpro\src\css\slider-pro.thumbnail-arrows.css" />
+    <Content Include="sliderpro\src\css\slider-pro.thumbnails.css" />
+    <Content Include="sliderpro\src\css\slider-pro.touch-swipe.css" />
+    <Content Include="sliderpro\src\css\slider-pro.video.css" />
+    <Content Include="sliderpro\src\css\slider-pro.wp.css" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.arrows.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.autoplay.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.buttons.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.caption.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.conditionalImages.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.core.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.deepLinking.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.fade.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.fullScreen.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.keyboard.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.layers.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.lazyLoading.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.retina.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.thumbnailArrows.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.thumbnails.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.thumbnailTouchSwipe.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.touchSwipe.js" />
+    <Content Include="sliderpro\src\js\jquery.sliderPro.video.js" />
+    <Content Include="sociallike\index.html" />
+    <Content Include="sociallike\social-likes.min.js" />
+    <Content Include="sociallike\social-likes_classic.css" />
+    <Content Include="web.config" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="actions.php" />
+    <Content Include="apropos.php" />
+    <Content Include="contact.php" />
+    <Content Include="english.php" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="footer.php" />
+    <Content Include="header.php" />
+    <Content Include="index.php" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="sliderpro\.gitignore" />
+    <Content Include="sliderpro\bower.json" />
+    <Content Include="sliderpro\docs\api.md" />
+    <Content Include="sliderpro\docs\modules.md" />
+    <Content Include="sliderpro\package.json" />
+    <Content Include="sliderpro\README.md" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5294</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:5294/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
