@@ -51,5 +51,6 @@
             </div>
         </div>
     </div>
-	<div class="hidden-xs hidden-lg hidden-md"><br/></div>
+	<br/>
+	<div class="hidden-xs hidden-lg"><br/></div>
     

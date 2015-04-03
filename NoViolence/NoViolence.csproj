@@ -178,6 +178,7 @@
     <Content Include="essai.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="ateliers.php" />
     <None Include="iisphp.bat" />
     <Content Include="marcheblanche.html" />
     <Content Include="Scripts\bootstrap.js" />

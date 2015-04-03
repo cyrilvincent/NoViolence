@@ -7,6 +7,10 @@
         <b>Actions menées</b>
       </p>
       <p>
+        <b>Ateliers : Sur le chemin de la nonviolence</b><br/>
+        Ce cycle d’ateliers est motivé par la recherche des clés pour comprendre la violence qui s’est produite le 28 septembre 2012 à Grenoble (Echirolles) et qui a résulté dans le mort des deux jeunes. Cette violence, commise par des individus s’inscrit-elle dans une violence de la société ? Dans cet atelier nous explorons ensemble comment on peut agir sur la violence avec de la non-violence, comme nous l'ont montré les familles et les proches des victimes lors de la Marche Blanche  2 octobre 2012. Le résultat de ces réflexions prendra la forme d’un livret qui sera distribué le 2 octobre, journée internationale pour la nonviolence, dans l’agglomération grenobloise. Y seront mis en valeur des personnes ou des groupes dans  l'agglomération grenobloise qui ont choisi le chemin de la nonviolence quand ils étaient confrontés avec (différentes formes) des violences. <a href="ateliers.php">Pour en savoir plus</a>.
+      </p>
+      <p>
         <b>Relais de la paix</b><br/>
         <img src="Content/i/relais.jpg" width="480"/><br/>
         Le Relais de la Paix, est une course à pied en relais qui relie les différentes communes de l'agglomération Grenobloise qui nous ont reçue. Les coureurs ont été acceuillis chaleureusement à chaque mairie traversée. Prochaine édition le 2/10/15.
