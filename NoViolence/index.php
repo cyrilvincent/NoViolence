@@ -222,6 +222,10 @@
         </p>
         <hr/>
         <p>
+          <a href="https://twitter.com/LaNonViolence">#NonViolence</a>.
+        </p>
+        <hr/>
+        <p>
           Le ruban blanc a été choisi comme logo, de nombreux ateliers sont organisés sur ce thème.<br/>
           <img src="Content/i/ruban.jpg" width="480"/>
         </p>

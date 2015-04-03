@@ -44,6 +44,7 @@
                     <li><a href="actions.php">Actions</a></li>
 					<li><a href="contact.php">Contact</a></li>
 					<li><a href="https://www.facebook.com/JourneeMondialeContreLaViolence" target="_blank"><img src="Content/i/f.png" alt="Facebook"/></a></li>
+					<li><a href="https://twitter.com/LaNonViolence" target="_blank"><img src="Content/i/t.jpg" alt="@LaNonViolence"/></a></li>
 					<li><div class="social-likes"><div class="facebook" title="Partager">Partager</div></div></li>
 					<li><a href="mailto:marcheblanche@gmail.com"><img src="Content/i/mail.jpg" alt="Facebook"/></a></li>
 					<li><a href="english.php"><img src="Content/i/english.png" alt="English"/></a></li>
