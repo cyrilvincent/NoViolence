@@ -49,6 +49,21 @@
     </div>
     <div class="col-sm-6">
       <p>
+        <b>Retrospective du 2 Octobre 2014</b><br/>
+        Plus de 1 000 personnes se
+        sont retrouvées dans l’atrium
+        du Lycée Marie Curie pour un
+        rassemblement en fin de journée.
+        Ils ont pu voir des mini spectacles
+        réalisés par des lycéens, théâtre,
+        chanson, danse hip hop, danse
+        contemporaine, musique... <a href="14.php">Voir la retrospective.
+        <br/>
+        <img src="Content/i/presse.jpg" width="480" border="0"/>
+        </a>
+      </p>
+      <hr/>
+      <p>
         <b>Deux Octobre</b><br/>
         Le film "Deux Octobre" d'Alain Manac'h résume notre action depuis le début.<br/>
         <iframe width="480" height="270" src="https://www.youtube.com/embed/msS8OUWx8hw" frameborder="0" allowfullscreen=""></iframe>

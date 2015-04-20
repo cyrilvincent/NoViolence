@@ -126,14 +126,14 @@
           </div>
 
           <div class="sp-slide">
-            <a href="actions.php#ruban">
+            <a href="14.php">
               <img class="sp-image" src="sliderpro/src/css/images/blank.gif"
-           data-src="Content/i/ruban.jpg"/>
+           data-src="Content/i/presse.jpg"/>
 
               <p class="sp-layer sp-black sp-padding"
                 data-position="bottomLeft" data-vertical="10" data-horizontal="2%" data-width="96%"
                 data-show-transition="up" data-show-delay="400" data-hide-transition="down">
-                Le ruban blanc est notre signe
+                Restrospective du 2 Octobre 2014
               </p>
             </a>
           </div>
@@ -190,8 +190,8 @@
           </div>
 
           <div class="sp-thumbnail">
-            <div class="sp-thumbnail-title">Ruban blanc</div>
-            <div class="sp-thumbnail-description">Signe de non violence</div>
+            <div class="sp-thumbnail-title">02/10/2014</div>
+            <div class="sp-thumbnail-description">Restrospective du 2 Octobre 2014</div>
           </div>
 
           <div class="sp-thumbnail">
@@ -218,16 +218,16 @@
         </p>
         <hr/>
         <p>
+          <a href="14.php">Retrospective du 2 Octobre 2014.<br/>
+          <img src="Content/i/presse.jpg" width="480"/></a>
+        </p>
+        <hr/>
+        <p>
           Vous voulez organiser une action contre la violence? N'hésitez pas à nous <a href="contact.php">contacter</a>.
         </p>
         <hr/>
         <p>
           <a href="https://twitter.com/LaNonViolence">#NonViolence</a>.
-        </p>
-        <hr/>
-        <p>
-          Le ruban blanc a été choisi comme logo, de nombreux ateliers sont organisés sur ce thème.<br/>
-          <img src="Content/i/ruban.jpg" width="480"/>
         </p>
       </div>
       <div class="col-sm-6">
