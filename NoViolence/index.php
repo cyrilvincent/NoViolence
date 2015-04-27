@@ -73,7 +73,18 @@
             </p>
           </div>
 
+          <div class="sp-slide">
+            <!--<a href="malala.php">-->
+              <img class="sp-image" src="sliderpro/src/css/images/blank.gif"
+              data-src="Content/i/malalachangeworld.jpeg"/>
 
+              <h2 class="sp-layer sp-black sp-padding"
+                data-position="bottomLeft" data-vertical="10" data-horizontal="2%" data-width="96%"
+                data-show-transition="up" data-show-delay="400" data-hide-transition="down">
+                Malala Yousafzai, Prix nobel de la paix <!--<span class="hide-medium-screen">sera notre grande invitée </span>le 2 Octobre 2015 au Summum de Grenoble-->
+              </h2>
+            <!--</a>-->
+          </div>
 
           <div class="sp-slide">
             <img class="sp-image" src="sliderpro/src/css/images/blank.gif"
@@ -112,18 +123,7 @@
             </a>
           </div>
 
-          <div class="sp-slide">
-            <a href="actions.php">
-              <img class="sp-image" src="sliderpro/src/css/images/blank.gif"
-              data-src="Content/i/mariecurie.jpg"/>
 
-              <p class="sp-layer sp-black sp-padding"
-                data-position="bottomLeft" data-vertical="10" data-horizontal="2%" data-width="96%"
-                data-show-transition="up" data-show-delay="400" data-hide-transition="down">
-                De nombreuses actions organisées dans une centaine d'écoles <span class="hide-medium-screen">à travers la France jusqu'à Haiti</span>
-              </p>
-            </a>
-          </div>
 
           <div class="sp-slide">
             <a href="14.php">
@@ -163,6 +163,11 @@
             <div class="sp-thumbnail-title">ONU</div>
             <div class="sp-thumbnail-description">Date anniversaire de la naissance de Gandhi</div>
           </div>
+          
+          <div class="sp-thumbnail">
+            <div class="sp-thumbnail-title">Malala</div>
+            <div class="sp-thumbnail-description">Prix Nobel de la Paix</div>
+          </div>
 
           <div class="sp-thumbnail">
             <div class="sp-thumbnail-title">Le relais de la paix</div>
@@ -182,11 +187,6 @@
           <div class="sp-thumbnail">
             <div class="sp-thumbnail-title">Atelier de photographie</div>
             <div class="sp-thumbnail-description">C'est mon parc</div>
-          </div>
-
-          <div class="sp-thumbnail">
-            <div class="sp-thumbnail-title">De nombreuses actions</div>
-            <div class="sp-thumbnail-description">organisées dans des écoles</div>
           </div>
 
           <div class="sp-thumbnail">
@@ -212,6 +212,13 @@
           Cette marche avait réuni 20000 personnes, ému la France entière et fait déplacer le président de la république François Hollande.<br/>
           <img src="Content/i/mb.jpg" width="480"/>
         </p>
+        <hr/>
+        <!--<p>
+            Malala Yousafzai, plus jeune lauréate du Prix nobel de la paix en 2014 <a href="malala.php">sera notre grande invitée le 2 Octobre 2015 au Summum de Grenoble.<br/>
+            <img src="Content/i/malalachangeworld.jpeg" width="480"/>
+          </a>
+        </p>
+        <hr/>-->
         <p>
           Résumé de la dernière Journée Internationale de la Non Violence.<br/>
           <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x273qgj" allowfullscreen=""></iframe>

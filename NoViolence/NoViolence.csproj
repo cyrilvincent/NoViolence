@@ -89,9 +89,14 @@
     <Content Include="Content\i\lycee2.jpg" />
     <Content Include="Content\i\lycee3.jpg" />
     <Content Include="Content\i\mail.jpg" />
+    <Content Include="Content\i\malalachangeworld.jpeg" />
+    <Content Include="Content\i\malalalivre.jpg" />
+    <Content Include="Content\i\malalaonevoice.png" />
+    <Content Include="Content\i\malalatime.jpg" />
     <Content Include="Content\i\mariecurie.jpg" />
     <Content Include="Content\i\mb.jpg" />
     <Content Include="Content\i\MB2.png" />
+    <Content Include="Content\i\presse.jpg" />
     <Content Include="Content\i\relais.jpg" />
     <Content Include="Content\i\relais2.jpg" />
     <Content Include="Content\i\respaix.jpg" />
@@ -100,6 +105,7 @@
     <Content Include="Content\i\ruban2.jpg" />
     <Content Include="Content\i\ruban3.jpg" />
     <Content Include="Content\i\sionseme.jpg" />
+    <Content Include="Content\i\t.jpg" />
     <Content Include="Content\i\tag.jpg" />
     <Content Include="Content\i\tshirt.jpg" />
     <Content Include="Content\i\villeneuve_debout.jpg" />
@@ -180,6 +186,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="ateliers.php" />
     <Content Include="14.php" />
+    <Content Include="malala.php" />
     <None Include="iisphp.bat" />
     <Content Include="marcheblanche.html" />
     <Content Include="Scripts\bootstrap.js" />
