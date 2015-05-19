@@ -13,6 +13,11 @@
         </a>
       </p>-->
       <p>
+        <b>Agir pour la Paix : Carnet de voyage à Hamburg</b><br/>
+        1263 km. Telle est la distance parcourue ce dimanche 17 mai 2015 entre Grenoble et Hambourg. <a href="hamburg.php">Pour en savoir plus</a>.
+      </p>
+      <hr/>
+      <p>
         <b>Ateliers : Sur le chemin de la nonviolence</b><br/>
         Ce cycle d’ateliers est motivé par la recherche des clés pour comprendre la violence qui s’est produite le 28 septembre 2012 à Grenoble (Echirolles) et qui a résulté dans le mort des deux jeunes. Cette violence, commise par des individus s’inscrit-elle dans une violence de la société ? Dans cet atelier nous explorons ensemble comment on peut agir sur la violence avec de la non-violence, comme nous l'ont montré les familles et les proches des victimes lors de la Marche Blanche  2 octobre 2012. Le résultat de ces réflexions prendra la forme d’un livret qui sera distribué le 2 octobre, journée internationale pour la nonviolence, dans l’agglomération grenobloise. Y seront mis en valeur des personnes ou des groupes dans  l'agglomération grenobloise qui ont choisi le chemin de la nonviolence quand ils étaient confrontés avec (différentes formes) des violences. <a href="ateliers.php">Pour en savoir plus</a>.
       </p>

@@ -17,6 +17,9 @@
         Twitter : <a href="https://twitter.com/LaNonViolence">@LaNonViolence</a> #NonViolence.<br/>
         Collectif Marche Blanche : <a href="marcheblanche.html">www.noviolence.fr/MarcheBlanche.html</a>.<br/>
         Villeneuve Debout : <a href="http://villeneuve-debout.blogsolidaires.org/">villeneuve-debout.blogsolidaires.org</a>, mail : <a href="mailto:villeneuve.debout@orange.fr">villeneuve.debout@orange.fr</a>, facebook : <a href="https://www.facebook.com/pages/Villeneuve-debout/634769159975786?fref=ts" target="_blank">https://www.facebook.com/pages/Villeneuve-debout/634769159975786?fref=ts</a>.<br/>
+        Ecole de la Paix : <a href="http://www.ecoledelapaix.org/">www.ecoledelapaix.org</a><br/>
+        Modus Operandi : <a href="http://modop.org/">www.modop.org</a><br/>
+        Ateliers pour la paix :<br/>
         Téléphone : 0622538762.<br/>
         WebDevelopper : <a href="http://www.cyrilvincent.com/">CVC</a>.
     </p>

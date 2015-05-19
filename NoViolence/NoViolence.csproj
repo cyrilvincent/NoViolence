@@ -64,10 +64,12 @@
     <Content Include="Content\bootstrap.cvc.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\i\affiche14.jpg" />
+    <Content Include="Content\i\arriveeHamburg.jpg" />
     <Content Include="Content\i\bourdel.jpg" />
     <Content Include="Content\i\couverture.jpg" />
     <Content Include="Content\i\Crepuscule.jpg" />
     <Content Include="Content\i\dauphine.jpg" />
+    <Content Include="Content\i\departHamburg.jpg" />
     <Content Include="Content\i\echirolles le 2oct.%28bas page%29.jpg" />
     <Content Include="Content\i\echirolles le 2oct.%28ht page%29 copie.jpg" />
     <Content Include="Content\i\english.png" />
@@ -191,6 +193,7 @@
     <Content Include="marcheblanche.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="hamburg.php" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -279,7 +282,9 @@
   <ItemGroup>
     <Content Include="actions.php" />
     <Content Include="apropos.php" />
-    <Content Include="contact.php" />
+    <Content Include="contact.php">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="english.php" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />

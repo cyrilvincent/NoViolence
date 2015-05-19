@@ -16,8 +16,7 @@
       <hr/>
       <p>
         <b>Collectif Marche Blanche</b><br/>
-        Cette journée est co-organisée en Isère par <a href="contact.php">le collectif Marche Blanche et Villeneuve Debout</a>.<br/>
-        <img src="Content/i/logoNB.png" height="120"/><img src="Content/i/villeneuve_debout.jpg" height="120"/>
+        Cette journée est co-organisée en Isère par <a href="contact.php">le collectif Marche Blanche, Villeneuve Debout, Ateliers pour la paix, Ecole de la paix et Modus Operandi</a>.<br/>
       </p>
       <hr/>
       <p>
