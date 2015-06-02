@@ -208,6 +208,12 @@
       <div class="col-sm-6">
         <p>
           Le 2 octobre 2015, la journée mondiale de la non violence aura lieu en Isère et partout en France.<br/>
+          En région Grenobloise nous allons reconduire le principe d’actions sur l’ensemble du territoire de l’agglomération avec ceux qui le souhaitent…<br/>
+          Une campagne de communication est prévue avec la décoration des tramways. Une course relais qui, si elle était symbolique en 2014, pourra prendre de l’importance relayant les villes de l’agglomération vers un point de convergence.<br/>
+          Et une grande soirée pour terminer cette journée de mobilisation de sensibilisation.<br/>
+          Nous lançons <a href="actions.php">un appel à projet</a>.
+        </p>
+        <p>
           Le 2 octobre 2012 est également la date de la marche blanche d'Echirolles en banlieue de Grenoble en mémoire de Kevin et Sofiane assassinés pour un mauvais regard.
           Cette marche avait réuni 20000 personnes, ému la France entière et fait déplacer le président de la république François Hollande.<br/>
           <img src="Content/i/mb.jpg" width="480"/>

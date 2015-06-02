@@ -70,6 +70,12 @@
     <Content Include="Content\i\Crepuscule.jpg" />
     <Content Include="Content\i\dauphine.jpg" />
     <Content Include="Content\i\departHamburg.jpg" />
+    <Content Include="Content\i\DSC05001.JPG" />
+    <Content Include="Content\i\DSC05005.JPG" />
+    <Content Include="Content\i\DSC05007.JPG" />
+    <Content Include="Content\i\DSC05008.JPG" />
+    <Content Include="Content\i\DSC05014.JPG" />
+    <Content Include="Content\i\DSC05103.JPG" />
     <Content Include="Content\i\echirolles le 2oct.%28bas page%29.jpg" />
     <Content Include="Content\i\echirolles le 2oct.%28ht page%29 copie.jpg" />
     <Content Include="Content\i\english.png" />
@@ -193,7 +199,9 @@
     <Content Include="marcheblanche.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="hamburg.php" />
+    <Content Include="hamburg.php">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -291,7 +299,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="footer.php" />
     <Content Include="header.php" />
-    <Content Include="index.php" />
+    <Content Include="index.php">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="sliderpro\.gitignore" />
     <Content Include="sliderpro\bower.json" />

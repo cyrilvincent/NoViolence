@@ -13,6 +13,24 @@
         </a>
       </p>-->
       <p>
+        <b>Appel à projet</b><br/>
+        Nous nous tournons vers vous enseignants, éducateurs,
+        professionnels de l’enfance et de l’adolescence, associations,
+        professionnels de tous milieux, comités d’entreprise, groupes de
+        personnes, pour que vous puissiez apporter votre contribution
+        et participer à votre manière à cette journée ! En ce domaine
+        tout est possible : exposition, expression artistique, débats,
+        concerts, et toute autre forme d’action qui rendra visible ce jour là
+        notre attention constante à la question de la non-violence.
+        Nous disposerons pour le 2 octobre d’un dépliant sous forme
+        d’un petit magazine qui reprendra les idées essentielles de vos
+        actions du jour ou permanentes pour la non violence, et pourra
+        être distribué au cours de la journée et le soir.
+        Faites nous part de vos idées suggestions propositions pour
+        que nous puissions les inscrire au calendrier du 2 octobre 2015 en nous <a href="contact.php">contactant</a>.
+      </p>
+      <hr/>
+      <p>
         <b>Agir pour la Paix : Carnet de voyage à Hamburg</b><br/>
         1263 km. Telle est la distance parcourue ce dimanche 17 mai 2015 entre Grenoble et Hambourg. <a href="hamburg.php">Pour en savoir plus</a>.
       </p>
